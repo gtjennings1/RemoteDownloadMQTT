@@ -13,10 +13,13 @@ The following project:
 5. Releases reset of Lattice iCE40 FPGA, where it boots from the newly written firmware in SPI flash
 
 Libraries and source code shout outs:
-    - Mosquitto MQTT Client Library for PHP:
-        https://github.com/mgdm/Mosquitto-PHP
-    - MQTT Client example for ESP32
-        https://pubsubclient.knolleary.net
-    - Winbond SPI flash C++ Library
-        https://www.instructables.com/id/How-to-Design-with-Discrete-SPI-Flash-Memory/
+
+- Mosquitto MQTT Client Library for PHP:
+https://github.com/mgdm/Mosquitto-PHP
+
+- MQTT Client example for ESP32
+https://pubsubclient.knolleary.net
+
+- Winbond SPI flash C++ Library
+https://www.instructables.com/id/How-to-Design-with-Discrete-SPI-Flash-Memory/
         

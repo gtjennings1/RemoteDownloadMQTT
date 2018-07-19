@@ -24,7 +24,7 @@ Source code modified from example provided by Nicholas O'Leary under MIT license
 #include "Stream.h"
  
 const char* ssid = "gnarlygrey";              /* Replace this */
-const char* password =  "";      /* Replace this */ 
+const char* password =  "";                   /* Replace this */ 
 const char* mqttServer = "m11.cloudmqtt.com"; /* Replace this */
 const int mqttPort = 10331;                   /* Replace this */
 const char* mqttUser = "puquorpi";            /* Replace this */

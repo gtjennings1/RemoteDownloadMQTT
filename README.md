@@ -1,5 +1,5 @@
 # RemoteDownloadMQTT
-Write FPGA firmware for Lattice iCE40 FPGA's via webpage and MQTT!
+Write FPGA firmware to Lattice iCE40 FPGA's via webpage and MQTT!
 
 Please check out the /doc for instructions on how to use this example and set up hardware.
 

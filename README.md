@@ -17,9 +17,9 @@ Libraries and source code shout outs:
 - Mosquitto MQTT Client Library for PHP:
 https://github.com/mgdm/Mosquitto-PHP
 
-- MQTT Client example for ESP32
+- MQTT Client example for ESP32:
 https://pubsubclient.knolleary.net
 
-- Winbond SPI flash C++ Library
+- Winbond SPI flash C++ Library:
 https://www.instructables.com/id/How-to-Design-with-Discrete-SPI-Flash-Memory/
         
